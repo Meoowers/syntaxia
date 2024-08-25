@@ -1,0 +1,17 @@
+server:
+  name: "Meoow"
+  categories:
+    importante:
+      channels:
+        regras:
+          name: "📌・regras"
+        avisos:
+          name: "📕・avisos"
+        welcome:
+          name: "⭐・boas-vindas"
+        updates:
+          name: "💻・updates"
+    chat:
+      channels:
+        off-topic:
+          name: "💬・off-topic"
